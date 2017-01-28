@@ -1,0 +1,4 @@
+C:\Programming\Microsoft\Test\bin\Test.dll
+C:\Programming\Microsoft\Test\bin\Test.pdb
+C:\Programming\Microsoft\Test\obj\Debug\Test.dll
+C:\Programming\Microsoft\Test\obj\Debug\Test.pdb
